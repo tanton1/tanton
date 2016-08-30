@@ -117,7 +117,7 @@ jQuery(window).load(function() {
 			jQuery(divpopup).attr('id', 'myModal');
 			jQuery(divpopup).attr('class', 'linhnguyen-modal');
 			jQuery( "body" ).append(divpopup);
-			jQuery("#myModal").html("<a href='http://tuvanbdsmientrung.blogspot.com/2016/08/du-an-green-city.html' target='_blank'><img src='https://plus.google.com/photos/photo/118054489834395105921/6324190859939295986?icm=false' width='500px'/><br/>13 Chuyên gia tư vấn BĐS</a>. Dự án green city. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			jQuery("#myModal").html("<a href='http://tuvanbdsmientrung.blogspot.com/2016/08/du-an-green-city.html' target='_blank'><img src='https://lh3.googleusercontent.com/vKK37h6hxfF-NlRmE3_8ks5sjo1JdPP9BHys1QdbOsVj8QyJ8Q3WjEAnYudjFjx2nBQJbCc2SA=w1360-h768-rw-no' width='500px'/><br/> Chuyên gia tư vấn BĐS</a>. Dự án green city. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			jQuery('#myModal').linhnguyen(jQuery('#myModal').data());
 		}
 });
